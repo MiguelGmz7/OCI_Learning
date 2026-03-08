@@ -6,5 +6,9 @@ Obsidian Repository about my learning in OCI
 
 ## 2. run this commands
 ```bash 
-
+git config --global --add safe.directory {YOUR PATH}
+git init
+git status (check all good)
 ```
+
+## 3. Now you can se 

@@ -7,3 +7,7 @@ The Best practice for a Tenancy is to create an admin account that will act as a
 
 # Policies for an Admin Account
 ![[Pasted image 20260303141901.png]]
+
+For some reason those policies didn't worked, so I needed to create sandbox specific policies
+![[Pasted image 20260307210615.png]]
+	check that 'sandbox-domain'/'oci-admin-group' is how we can refer to the admin group we created 

@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "7e0a5d81c16489df",
+    "type": "split",
+    "children": [
+      {
+        "id": "81ed5db86df58b67",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1438cb040fef173b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "testing/README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      },
+      {
+        "id": "2a7f943ef9be70f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f83896a6f6f05046",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3e3d52a4d1a48ba6",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb6938c252c63df6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17007b442ac9cf0f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5f661cf89686ccad",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b3ee483f3cefb72d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1781395d988878f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "6094f90105c8036f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b1722085248b7df3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "testing/README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for README"
+            }
+          },
+          {
+            "id": "f52014320694e184",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "testing/README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from README"
+            }
+          },
+          {
+            "id": "4c1577c6500658dc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "41b9c3d8a2e6a05c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "0b0d830f7a845454",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "testing/README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "1438cb040fef173b",
+  "lastOpenFiles": [
+    "Welcome.md",
+    "testing/README.md",
+    "testing/Networking/Virtual Cloud Network.md",
+    "testing/Networking/Demo VCN Creation using wizard.md",
+    "testing/Networking",
+    "testing/Images/Pasted image 20260307213941.png",
+    "testing/Images/Pasted image 20260307213830.png",
+    "testing/Images/Pasted image 20260307213222.png",
+    "testing/Images/Pasted image 20260307212654.png",
+    "testing/Images/Pasted image 20260307212607.png",
+    "testing/Images/Pasted image 20260307212506.png",
+    "testing/Images/Pasted image 20260307212235.png",
+    "testing/Images/Pasted image 20260307212112.png",
+    "testing/Images/Pasted image 20260307210615.png",
+    "testing/Images/Pasted image 20260307194024.png",
+    "testing/Images",
+    "testing/IAM/Tenancy Account Setup.md",
+    "testing/IAM/IAM Introduccion.md",
+    "testing/IAM/Demo Compartments and Identity Domains.md",
+    "testing/IAM/Demo AuthN and AuthZ.md",
+    "testing/IAM/Compartments.md",
+    "testing/IAM/AuthN and Authz (policies).md",
+    "testing/IAM",
+    "testing/Architecture/Range of services.md",
+    "testing/Architecture/Introduction.md",
+    "testing/Architecture",
+    "testing"
+  ]
+}

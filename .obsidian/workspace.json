@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OCI/README.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
@@ -187,6 +187,7 @@
   "active": "efb1812ba575d240",
   "lastOpenFiles": [
     "OCI/README.md",
+    "README.md",
     "testing/README.md",
     "testing/Networking/Demo VCN Creation using wizard.md",
     "testing/Networking/Virtual Cloud Network.md",

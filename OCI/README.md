@@ -13,3 +13,4 @@ git status (check all good)
 ```
 
 ## 3. Now you can setup automatically in the setting of the git plug how long it will take to create commits  
+testing testing

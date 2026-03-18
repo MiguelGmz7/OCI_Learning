@@ -1,1 +1,1 @@
-VCN uses route tabl
+VCN uses route tables 

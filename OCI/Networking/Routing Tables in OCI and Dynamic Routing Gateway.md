@@ -18,3 +18,5 @@ if we want to communicate anything outside of a Region it would be with a **DYNA
 We could still think of connecting all the networks with a LPG, but that could be a little to laborious, that's why it exist: 
 
 ***DYNAMIC ROUTING GATEWAY V2:***
+![[Pasted image 20260322171406.png]]
+	As we can see in here, more easily we can just create a single DRG and connect all of 

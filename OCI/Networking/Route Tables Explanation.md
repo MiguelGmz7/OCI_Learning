@@ -1,4 +1,4 @@
 VCN uses route tables 
 
 # What is a routing table? 
-I don't know
+Is a way for router to communicate with other routers and by extation 

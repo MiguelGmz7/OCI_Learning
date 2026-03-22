@@ -19,6 +19,8 @@ It's a way for a router to know where to send a package like GPS
 
 ## Static
 ![[Pasted image 20260322152538.png]]
-	In this example we actually have 4 networks connected because you can see that the 2 routers 
+	In this example we actually have 4 networks connected because you can see that the we know have 2 routers, so that will be also a network by itself 
+
+
 
 

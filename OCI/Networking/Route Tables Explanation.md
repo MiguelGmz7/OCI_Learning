@@ -37,6 +37,6 @@ Okey so now we establish connection in one way, but... *what if a package from 1
 
 ![[Pasted image 20260322154743.png]]
 	So we just create the rule in the other router to make us able to send the data back and forth
-and for *10.0.0.0/8* -> *174.*
+and for *10.0.0.0/8* <-> *174.16.0.0/16* connection will be the same thing just remembering ***we already establish a rule for connecting to *** 
 
 

@@ -10,4 +10,6 @@ because the biggest the mask less ip would be in that network, with 32 there is 
 
 # Local Peering and Remote pairing
 ![[Pasted image 20260322164032.png]]
-There is also more easy way to communicate between VCN's in the same network like it would be a **LOCAL PEERING NETWORK** between 
+There is also more easy way to communicate between VCN's in the same network like it would be a **LOCAL PEERING NETWORK** with a **LOCAL PEERING GATEWAY**
+
+if we want to communicate anything 

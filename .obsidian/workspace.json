@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "1781395d988878f9",
@@ -200,10 +199,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a0d28b07b465de5c",
+  "active": "17007b442ac9cf0f",
   "lastOpenFiles": [
-    "Pasted image 20260322151225.png",
-    "Pasted image 20260322150706.png",
+    "OCI/Images/Pasted image 20260322152538.png",
+    "OCI/Images/Pasted image 20260322151225.png",
+    "OCI/Images/Pasted image 20260322150706.png",
     "OCI/Networking/Demo VCN Creation using wizard.md",
     "OCI/Networking/Route Tables Explanation.md",
     "conflict-files-obsidian-git.md",
@@ -218,7 +218,6 @@
     "OCI/Images/Pasted image 20260307212506.png",
     "OCI/Images/Pasted image 20260307212235.png",
     "OCI/Images/Pasted image 20260307212112.png",
-    "OCI/Images/Pasted image 20260307210615.png",
     "OCI/Images",
     "OCI/IAM/Tenancy Account Setup.md",
     "OCI/IAM/IAM Introduccion.md",

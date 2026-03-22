@@ -18,7 +18,7 @@ In this example we have 2 networks connected to the same router, but our router 
 *If I as a router need to send a package to my **directly connected network** 10.0.0.0/8* -> *I will send that package to Eth1
 
 ## Static
-
+![[Pasted image 20260322152538.png]]
 
 
 

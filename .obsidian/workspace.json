@@ -8,20 +8,49 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1438cb040fef173b",
+            "id": "189a165802821b8c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "testing/README.md",
+                "file": "OCI/Networking/Route Tables.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Route Tables"
+            }
+          },
+          {
+            "id": "a0d28b07b465de5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OCI/Networking/Route Tables.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Route Tables"
+            }
+          },
+          {
+            "id": "c0afca0af80a3182",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -184,49 +213,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1438cb040fef173b",
+  "active": "c0afca0af80a3182",
   "lastOpenFiles": [
-    "README.md",
+    "OCI/Networking/Route Tables.md",
+    "conflict-files-obsidian-git.md",
     "testing/README.md",
+    "OCI/Networking/Virtual Cloud Network.md",
+    "OCI/Networking/Demo VCN Creation using wizard.md",
+    "OCI/Networking",
+    "OCI/Images/Pasted image 20260307213941.png",
+    "OCI/Images/Pasted image 20260307213830.png",
+    "OCI/Images/Pasted image 20260307213222.png",
+    "OCI/Images/Pasted image 20260307212654.png",
+    "OCI/Images/Pasted image 20260307212607.png",
+    "OCI/Images/Pasted image 20260307212506.png",
+    "OCI/Images/Pasted image 20260307212235.png",
+    "OCI/Images/Pasted image 20260307212112.png",
+    "OCI/Images/Pasted image 20260307210615.png",
+    "OCI/Images/Pasted image 20260307194024.png",
+    "OCI/Images",
+    "OCI/IAM/Tenancy Account Setup.md",
+    "OCI/IAM/IAM Introduccion.md",
+    "OCI/IAM/Demo Compartments and Identity Domains.md",
+    "OCI/IAM/Demo AuthN and AuthZ.md",
+    "OCI/IAM/Compartments.md",
+    "OCI/Architecture/Range of services.md",
+    "OCI/IAM/AuthN and Authz (policies).md",
+    "OCI/Architecture/Introduction.md",
+    "OCI/IAM",
+    "OCI/Architecture",
+    "OCI",
+    "testing/IAM/Demo AuthN and AuthZ.md",
+    "testing/IAM/Compartments.md",
+    "testing/IAM/AuthN and Authz (policies).md",
+    "testing/Architecture/Range of services.md",
+    "README.md",
     "Welcome.md",
     "Networking/Virtual Cloud Network.md",
     "Networking/Demo VCN Creation using wizard.md",
     "Networking",
-    "Images/Pasted image 20260307213941.png",
-    "Images/Pasted image 20260307213830.png",
-    "Images/Pasted image 20260307213222.png",
-    "Images/Pasted image 20260307212654.png",
-    "Images/Pasted image 20260307212607.png",
-    "Images/Pasted image 20260307212506.png",
-    "Images/Pasted image 20260307212235.png",
-    "Images/Pasted image 20260307212112.png",
-    "Images/Pasted image 20260307210615.png",
-    "Images/Pasted image 20260307194024.png",
     "Images",
     "IAM/Tenancy Account Setup.md",
     "IAM/IAM Introduccion.md",
     "IAM/Demo Compartments and Identity Domains.md",
     "IAM/Demo AuthN and AuthZ.md",
     "IAM/Compartments.md",
-    "IAM/AuthN and Authz (policies).md",
     "IAM",
-    "Architecture/Range of services.md",
-    "Architecture/Introduction.md",
     "Architecture",
-    "testing/Networking/Virtual Cloud Network.md",
-    "testing/Networking/Demo VCN Creation using wizard.md",
-    "testing/Networking",
-    "testing/Images",
-    "testing/IAM/Tenancy Account Setup.md",
-    "testing/IAM/IAM Introduccion.md",
-    "testing/IAM/Demo Compartments and Identity Domains.md",
-    "testing/IAM/Demo AuthN and AuthZ.md",
-    "testing/IAM/Compartments.md",
-    "testing/IAM/AuthN and Authz (policies).md",
-    "testing/IAM",
-    "testing/Architecture/Range of services.md",
-    "testing/Architecture/Introduction.md",
-    "testing/Architecture",
-    "testing"
+    "testing/Networking"
   ]
 }

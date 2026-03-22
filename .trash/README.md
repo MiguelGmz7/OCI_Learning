@@ -3,12 +3,16 @@ Obsidian Repository about my learning in OCI
 
 # Steps for setup this in obsidian
 ## 1. In obsidian you need to clone a repository in the vault
+- Install the community plug and then run the git clone command  
 
-## 2. run this commands
+# 2. run this commands
 ```bash 
 git config --global --add safe.directory {YOUR PATH}
 git init
 git status (check all good)
 ```
 
-## 3. Now you can setup automatically in the setting of the git plug how long it will take to create commits  
+# 3. Now you can setup automatically in the setting of the git plug how long it will take to create commits  
+
+# -- IMPORTANT --- 
+the git repository need to be where the .obsidian carpet is

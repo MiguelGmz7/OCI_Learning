@@ -6,7 +6,9 @@ a file that contains a set of rules that shows information on what path a data p
 It's a way for a router to know where to send a package like GPS 
 
 ![[Pasted image 20260322150706.png]]
-	In this example we can see 
+	In this example we can see how every router have the precise information to know where is the next data point
+
+*ROUTING *
 
 
 

@@ -12,7 +12,8 @@ It's a way for a router to know where to send a package like GPS
 # Directly connected 
 ![[Pasted image 20260322151225.png]]
 In this example we have 2 networks connected to the same router, but our router will now where to send a package because it will look to their interface 
-
+## Example on how it works 
+*If I need to send a package to my **directly ***
 
 
 

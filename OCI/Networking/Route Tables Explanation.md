@@ -17,7 +17,7 @@ It's a way for a router to know where to send a package like GPS
 
 *If I as a router need to send a package to my **directly connected network** 10.0.0.0/8* -> *I will send that package to Eth1
 
-## Static
+## Static Routes
 ![[Pasted image 20260322152538.png]]
 	In this example we actually have 4 networks connected because you can see that the we know have 2 routers, so that will be also a network by itself 
 
@@ -37,6 +37,9 @@ Okey so now we establish connection in one way, but... *what if a package from 1
 
 ![[Pasted image 20260322154743.png]]
 	So we just create the rule in the other router to make us able to send the data back and forth
-and for *10.0.0.0/8* <-> *174.16.0.0/16* connection will be the same thing just remembering ***we already establish a rule for connecting to *** 
+
+and for *10.0.0.0/8* <-> *174.16.0.0/16* connection will be the same thing just remembering ***we already establish a rule for connecting to 174.16.0.0/16*** so that part is cover  
+
+##
 
 

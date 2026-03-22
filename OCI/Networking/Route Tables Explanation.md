@@ -48,6 +48,8 @@ that's why the **Dynamic routes exist** the neighboring routers use the next dyn
 - OSPF
 - BGP
 - IS-IS
-- EIG
+- EIGRP
+
+this only means that the 2 routers 
 
 

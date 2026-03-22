@@ -28,3 +28,7 @@ Okey, so the same logic of directly connected still works for the 2 routers
 But then... what it will happen if *192.168.0.4* wants to send a package to *174.16.0.2* 
 ![[Pasted image 20260322153347.png]]
 	The router will get confused
+
+This is where the network admin will join and add a static route inside of the router
+![[Pasted image 20260322154221.png]]
+*When we **statically**  add this *

@@ -8,7 +8,10 @@ It's a way for a router to know where to send a package like GPS
 ![[Pasted image 20260322150706.png]]
 	In this example we can see how every router have the precise information to know where is the next data point
 
-*ROUTING *
+*ROUTING TABLES ARE POPULATED IN 3 WAYS*
+# Directly connected 
+
+
 
 
 

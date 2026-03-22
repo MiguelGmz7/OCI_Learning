@@ -10,7 +10,8 @@ It's a way for a router to know where to send a package like GPS
 
 *ROUTING TABLES ARE POPULATED IN 3 WAYS*
 # Directly connected 
-
+![[Pasted image 20260322151225.png]]
+In this example we have 2 
 
 
 

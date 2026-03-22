@@ -21,6 +21,7 @@ It's a way for a router to know where to send a package like GPS
 ![[Pasted image 20260322152538.png]]
 	In this example we actually have 4 networks connected because you can see that the we know have 2 routers, so that will be also a network by itself 
 
-
-
+Okey, so the same logic of directly connected still works for the 2 routers
+![[Pasted image 20260322153006.png]]
+*If I as a router need to send a package to my **directly connected network** 10.0.0.0/8* -> *I will send that package to Eth1
 

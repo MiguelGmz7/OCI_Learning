@@ -36,6 +36,7 @@ This is where the network admin will join and add a static route inside of the r
 Okey so now we establish connection in one way, but... *what if a package from 174.16.0.0/16 wants to be delivered to 192.168.0.0/24* we never created a rule for that, right?
 
 ![[Pasted image 20260322154743.png]]
-	So we just create the rule in the other router to make us able to send the data back and ford
+	So we just create the rule in the other router to make us able to send the data back and forth
+
 
 

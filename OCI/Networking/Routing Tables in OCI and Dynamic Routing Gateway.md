@@ -13,3 +13,5 @@ because the biggest the mask less ip would be in that network, with 32 there is 
 There is also more easy way to communicate between VCN's in the same network like it would be a **LOCAL PEERING NETWORK** with a **LOCAL PEERING GATEWAY**
 
 if we want to communicate anything outside of a Region it would be with a **DYNAMIC ROUTING GATEWAY**
+
+## Connecting 2 or more 

@@ -15,4 +15,6 @@ There is also more easy way to communicate between VCN's in the same network lik
 if we want to communicate anything outside of a Region it would be with a **DYNAMIC ROUTING GATEWAY**
 
 ## Connecting 2 or more VCN's in the same network 
-We could still think of connecting all the n
+We could still think of connecting all the networks with a LPG, but that could be a little to laborious, that's why it exist: 
+
+***DYNAMIC ROUTING GATEWAY V2:***

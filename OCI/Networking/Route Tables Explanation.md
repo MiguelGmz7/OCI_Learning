@@ -31,6 +31,6 @@ But then... what it will happen if *192.168.0.4* wants to send a package to *174
 
 This is where the network admin will join and add a static route inside of the router
 ![[Pasted image 20260322154221.png]]
-*When we **statically**  add this route to the router we show to the packages where is the next hop for the information to flow*
+*When we **statically** add this route to the **router** we show to the packages where is the next hop for the information to flow*
 
 

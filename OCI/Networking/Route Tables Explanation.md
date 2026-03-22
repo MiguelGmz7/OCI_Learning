@@ -25,4 +25,6 @@ Okey, so the same logic of directly connected still works for the 2 routers
 ![[Pasted image 20260322153006.png]]
 *If I as a router need to send a package to my **directly connected network** 125.0.0.0/24* -> *I will send that package to Eth1/Eth2 (depending of the router)
 
-But then... what it will happen if *192.168.0.4* wants to send a package to *174.16.0.2*  
+But then... what it will happen if *192.168.0.4* wants to send a package to *174.16.0.2* 
+![[Pasted image 20260322153347.png]]
+	The router will get confused

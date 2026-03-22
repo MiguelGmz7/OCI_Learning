@@ -51,7 +51,7 @@ that's why the **Dynamic routes exist** the neighboring routers use the next dyn
 - EIGRP
 
 this only means that the 2 routers share their routing tables
-[[Routing Tables in OCI]]
+[[Routing Tables in OCI and Dynamic Routing Gateway]]
 
 
 

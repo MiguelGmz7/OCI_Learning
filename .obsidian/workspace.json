@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OCI/Networking/Routing Tables in OCI.md",
+                "file": "OCI/Networking/Routing Tables in OCI and Dynamic Routing Gateway.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Routing Tables in OCI"
+              "title": "Routing Tables in OCI and Dynamic Routing Gateway"
             }
           }
         ],
@@ -213,10 +213,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "17007b442ac9cf0f",
+  "active": "81b942520e79c6ee",
   "lastOpenFiles": [
     "OCI/Images/Pasted image 20260322162105.png",
-    "OCI/Networking/Routing Tables in OCI.md",
+    "OCI/Networking/Routing Tables in OCI and Dynamic Routing Gateway.md",
     "OCI/Networking/Route Tables Explanation.md",
     "OCI/Images/Pasted image 20260322154743.png",
     "OCI/Images/Pasted image 20260322154221.png",

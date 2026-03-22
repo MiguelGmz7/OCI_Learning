@@ -19,4 +19,4 @@ We could still think of connecting all the networks with a LPG, but that could b
 
 ***DYNAMIC ROUTING GATEWAY V2:***
 ![[Pasted image 20260322171406.png]]
-	As we can see in here, more easily we can just create a single DRG and connect all of the 
+	As we can see in here, more easily we can just create a single DRG and connect all of the VCN's into a single DRG (this will only work for 300 VCN's)

@@ -41,6 +41,6 @@ Okey so now we establish connection in one way, but... *what if a package from 1
 and for *10.0.0.0/8* <-> *174.16.0.0/16* connection will be the same thing just remembering ***we already establish a rule for connecting to 174.16.0.0/16*** so that part is cover  
 
 ## Dynamic Routes
-We just discussed that for **static routes** the network admin would need to manually 
+We just discussed that for **static routes** the network admin would need to manually write this rules, well this is the long-term can be pretty difficult to achieve 
 
 

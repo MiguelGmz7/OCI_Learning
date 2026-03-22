@@ -7,3 +7,6 @@ so that's why the priority with the network biggest submask will take priority, 
 
 ## why?
 because the biggest the mask less ip would be in that network, with 32 there is only 1 ip in that network 
+
+# Local Peering and Remote pairing
+![[Pasted image 20260322164032.png]]

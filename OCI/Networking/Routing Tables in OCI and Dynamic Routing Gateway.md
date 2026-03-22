@@ -3,4 +3,4 @@
 # Priority of the longest prefix match
 if for example we need to send a file to *192.168.0.1* actually it matches the 2 networks (0.0.0.0 means all of the internet)
 
-so that's why the priority 
+so that's why the priority with the network biggest submask will take priority, in this case (192.168.0.0 because of the /16) if we have a /

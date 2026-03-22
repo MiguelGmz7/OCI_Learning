@@ -33,4 +33,6 @@ This is where the network admin will join and add a static route inside of the r
 ![[Pasted image 20260322154221.png]]
 *When we **statically** add this route to the **router** we show to the packages where is the next hop for the information to flow*
 
-Okey so now we establish connection in one way, but... *what if a package from 174.16.0.0/16 wants to *
+Okey so now we establish connection in one way, but... *what if a package from 174.16.0.0/16 wants to be delivered to 192.168.0.0/24* we never created a rule for that, right?
+
+

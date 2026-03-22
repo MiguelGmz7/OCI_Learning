@@ -43,4 +43,6 @@ and for *10.0.0.0/8* <-> *174.16.0.0/16* connection will be the same thing just 
 ## Dynamic Routes
 We just discussed that for **static routes** the network admin would need to manually write this rules, well this is the long-term can be pretty difficult to achieve 
 
+that's why the **Dynamic routes exist** the neighboring routers use  
+
 

@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Route Tables Explanation"
             }
+          },
+          {
+            "id": "81b942520e79c6ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OCI/Networking/Routing Tables in OCI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Routing Tables in OCI"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -199,9 +213,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a0d28b07b465de5c",
+  "active": "17007b442ac9cf0f",
   "lastOpenFiles": [
-    "Pasted image 20260322154743.png",
+    "OCI/Networking/Routing Tables in OCI.md",
+    "OCI/Networking/Route Tables Explanation.md",
+    "OCI/Images/Pasted image 20260322154743.png",
     "OCI/Images/Pasted image 20260322154221.png",
     "OCI/Images/Pasted image 20260322153347.png",
     "OCI/Images/Pasted image 20260322153006.png",
@@ -209,7 +225,6 @@
     "OCI/Images/Pasted image 20260322151225.png",
     "OCI/Images/Pasted image 20260322150706.png",
     "OCI/Networking/Demo VCN Creation using wizard.md",
-    "OCI/Networking/Route Tables Explanation.md",
     "conflict-files-obsidian-git.md",
     "testing/README.md",
     "OCI/Networking/Virtual Cloud Network.md",
@@ -217,7 +232,6 @@
     "OCI/Images/Pasted image 20260307213941.png",
     "OCI/Images/Pasted image 20260307213830.png",
     "OCI/Images/Pasted image 20260307213222.png",
-    "OCI/Images/Pasted image 20260307212654.png",
     "OCI/Images",
     "OCI/IAM/Tenancy Account Setup.md",
     "OCI/IAM/IAM Introduccion.md",

@@ -213,8 +213,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "17007b442ac9cf0f",
+  "active": "81b942520e79c6ee",
   "lastOpenFiles": [
+    "Pasted image 20260322162105.png",
     "OCI/Networking/Routing Tables in OCI.md",
     "OCI/Networking/Route Tables Explanation.md",
     "OCI/Images/Pasted image 20260322154743.png",
@@ -257,7 +258,6 @@
     "IAM/Tenancy Account Setup.md",
     "IAM/IAM Introduccion.md",
     "IAM/Demo Compartments and Identity Domains.md",
-    "IAM/Demo AuthN and AuthZ.md",
     "IAM",
     "Architecture",
     "testing/Networking"

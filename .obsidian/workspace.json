@@ -1,70 +1,37 @@
 {
   "main": {
-    "id": "7e0a5d81c16489df",
+    "id": "5ed27fec2ba1ef7d",
     "type": "split",
     "children": [
       {
-        "id": "81ed5db86df58b67",
+        "id": "dc5e2d3c30427538",
         "type": "tabs",
         "children": [
           {
-            "id": "189a165802821b8c",
+            "id": "efb1812ba575d240",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OCI/Networking/Route Tables.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Route Tables"
-            }
-          },
-          {
-            "id": "a0d28b07b465de5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OCI/Networking/Route Tables Explanation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Route Tables Explanation"
-            }
-          },
-          {
-            "id": "81b942520e79c6ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OCI/Networking/Routing Tables in OCI and Dynamic Routing Gateway.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Routing Tables in OCI and Dynamic Routing Gateway"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "3e3d52a4d1a48ba6",
+    "id": "f400e6b6c9c3bc2b",
     "type": "split",
     "children": [
       {
-        "id": "bb6938c252c63df6",
+        "id": "b7b74c3e9a6a2066",
         "type": "tabs",
         "children": [
           {
-            "id": "17007b442ac9cf0f",
+            "id": "b51cb3ef6369a0ce",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -77,7 +44,7 @@
             }
           },
           {
-            "id": "5f661cf89686ccad",
+            "id": "36915c0ccfa1df1f",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -94,7 +61,7 @@
             }
           },
           {
-            "id": "b3ee483f3cefb72d",
+            "id": "df8e0eadb64ca68e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -107,24 +74,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "1781395d988878f9",
+    "id": "664b00733ba20279",
     "type": "split",
     "children": [
       {
-        "id": "6094f90105c8036f",
+        "id": "bc7999dcafe721dc",
         "type": "tabs",
         "children": [
           {
-            "id": "b1722085248b7df3",
+            "id": "e1b2a120ca206422",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "testing/README.md",
+                "file": "OCI/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,12 +104,12 @@
             }
           },
           {
-            "id": "f52014320694e184",
+            "id": "269467547a09522a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "testing/README.md",
+                "file": "OCI/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -152,7 +118,7 @@
             }
           },
           {
-            "id": "4c1577c6500658dc",
+            "id": "1e9aece6193083f7",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -167,7 +133,7 @@
             }
           },
           {
-            "id": "41b9c3d8a2e6a05c",
+            "id": "5a21c92ca2935cd8",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -181,12 +147,12 @@
             }
           },
           {
-            "id": "0b0d830f7a845454",
+            "id": "7c40c6c3e53960dd",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "testing/README.md",
+                "file": "OCI/README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -214,53 +180,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "81b942520e79c6ee",
+  "active": "efb1812ba575d240",
   "lastOpenFiles": [
     "Pasted image 20260322171406.png",
-    "OCI/Pasted image 20260228200426.png",
-    "OCI/Pasted image 20260228195119.png",
-    "OCI/Pasted image 20260228194422.png",
-    "OCI/Pasted image 20260228192829.png",
-    "OCI/Pasted image 20260228171256.png",
-    "OCI/Pasted image 20260228170406.png",
-    "OCI/Images/Pasted image 20260322164032.png",
-    "OCI/Images/Pasted image 20260322162105.png",
     "OCI/Networking/Routing Tables in OCI and Dynamic Routing Gateway.md",
     "OCI/Networking/Route Tables Explanation.md",
+    "OCI/Images/Pasted image 20260322164032.png",
+    "OCI/Images/Pasted image 20260322162105.png",
     "OCI/Images/Pasted image 20260322154743.png",
     "OCI/Images/Pasted image 20260322154221.png",
-    "OCI/Networking/Demo VCN Creation using wizard.md",
-    "conflict-files-obsidian-git.md",
+    "OCI/Images/Pasted image 20260322153347.png",
+    "OCI/Images/Pasted image 20260322153006.png",
+    "OCI/Images/Pasted image 20260322152538.png",
+    "OCI/Images/Pasted image 20260322151225.png",
+    "OCI/Images/Pasted image 20260322150706.png",
+    "README.md",
+    "OCI/Networking/Route Tables.md",
+    "OCI/IAM/Demo Compartments and Identity Domains.md",
+    "OCI/IAM/Compartments.md",
+    "OCI/README.md",
     "testing/README.md",
+    "testing/Networking/Demo VCN Creation using wizard.md",
+    "testing/Networking/Virtual Cloud Network.md",
+    "testing/Networking",
+    "testing/Images/Pasted image 20260307213941.png",
+    "testing/Images",
+    "testing/IAM/Demo Compartments and Identity Domains.md",
+    "testing/IAM/Tenancy Account Setup.md",
+    "testing/IAM/IAM Introduccion.md",
+    "testing/IAM/Compartments.md",
+    "testing/IAM/Demo AuthN and AuthZ.md",
+    "testing/IAM/AuthN and Authz (policies).md",
+    "testing/IAM",
+    "testing/Architecture/Range of services.md",
+    "testing/Architecture/Introduction.md",
+    "testing/Architecture",
+    "testing",
     "OCI/Networking/Virtual Cloud Network.md",
+    "OCI/Networking/Demo VCN Creation using wizard.md",
     "OCI/Networking",
     "OCI/Images",
+    "OCI/IAM/Demo AuthN and AuthZ.md",
     "OCI/IAM/Tenancy Account Setup.md",
     "OCI/IAM/IAM Introduccion.md",
-    "OCI/IAM/Demo Compartments and Identity Domains.md",
-    "OCI/IAM/Demo AuthN and AuthZ.md",
-    "OCI/IAM/Compartments.md",
-    "OCI/Architecture/Range of services.md",
     "OCI/IAM/AuthN and Authz (policies).md",
-    "OCI/Architecture/Introduction.md",
     "OCI/IAM",
+    "OCI/Architecture/Introduction.md",
     "OCI/Architecture",
-    "OCI",
-    "testing/IAM/Demo AuthN and AuthZ.md",
-    "testing/IAM/Compartments.md",
-    "testing/IAM/AuthN and Authz (policies).md",
-    "testing/Architecture/Range of services.md",
-    "README.md",
-    "Welcome.md",
-    "Networking/Virtual Cloud Network.md",
-    "Networking/Demo VCN Creation using wizard.md",
-    "Networking",
-    "Images",
-    "IAM/Tenancy Account Setup.md",
-    "IAM/IAM Introduccion.md",
-    "IAM/Demo Compartments and Identity Domains.md",
-    "IAM",
-    "Architecture",
-    "testing/Networking"
+    "OCI/desktop.ini"
   ]
 }
